@@ -10,7 +10,7 @@ A simple web application that generates secure random passwords with various cha
 
 ## Getting Started
 
-1. Clone the repository to your local machine using `git clone https://github.com/your-username/random-password-generator.git`
+1. Clone the repository to your local machine using `git clone https://github.com/somashekar17/random-password-generator.git`
 2. Navigate to the project directory: `cd random-password-generator`
 3. Open the `index.html` file in a web browser to use the random password generator.
 
